@@ -7,4 +7,5 @@
 <br/>ImageNet
 <br/><br/>
 # Pre-trained Models 
-<br/>InceptionV3, VGG-16
+<br/>InceptionV3
+<br/>VGG-16
